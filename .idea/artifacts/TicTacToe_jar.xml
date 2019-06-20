@@ -3,7 +3,7 @@
     <output-path>$PROJECT_DIR$/out/artifacts/TicTacToe_jar</output-path>
     <root id="archive" name="TicTacToe.jar">
       <element id="module-output" name="TicTacToe" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/../../stdlib.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/stdlib.jar" path-in-jar="/" />
       <element id="library" level="project" name="stdlib (1)" />
     </root>
   </artifact>
